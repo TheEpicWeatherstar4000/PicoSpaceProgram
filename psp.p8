@@ -6,7 +6,7 @@
 
 -- main planet:
 gbody = {x=64, y=500, -- position
- r=500, -- radius 
+ r=5000, -- radius 
  g=100} -- gravity multiplier
 
 
